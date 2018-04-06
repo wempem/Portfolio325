@@ -1,1 +1,1 @@
-README
+This project creates a Fitness Application that the user can choose different workouts with with their own intensity. In order to run, run Intellij and press the run button in the upper right corner and the app will open up. 
